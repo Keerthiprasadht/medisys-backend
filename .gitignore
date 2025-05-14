@@ -1,0 +1,17 @@
+# Ignore virtual environment
+venv/
+
+# Ignore SQLite DB
+db.sqlite3
+
+# Ignore Python cache and logs
+__pycache__/
+*.pyc
+*.log
+
+# Ignore environment variables
+.env
+
+# Optional: Ignore static/media if generated
+/static/
+/media/
